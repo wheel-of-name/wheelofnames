@@ -1,1 +1,4 @@
-# wheelofnames
+The Wheel of Names is a fun, interactive online tool that lets you create a virtual spinning wheel to randomly select names, items, or choices, making decision-making exciting and fair. Perfect for classroom activities, giveaways, or group games, this user-friendly tool is ideal for beginners, including 12th-standard students, looking to add a creative twist to projects or events. Simply input names or options, customize the wheel with colors, and spin it with a click! Its engaging design ensures everyone stays hooked, whether you're picking a winner for a contest or assigning tasks. For SEO, the Wheel of Names ranks well due to its popularity, ease of use, and versatility, driving traffic for terms like "random name picker" or "online spinner tool." 
+
+Try it to make decisions lively and stress-free!
+https://www.wheelofname.org/
